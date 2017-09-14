@@ -8,6 +8,9 @@ namespace Testapp
     {
         static void Main(string[] args)
         {
+            //changed some files..................by somanath
+
+
             var obj = Directory.GetDirectories("/www/root");
             Console.WriteLine("Null");
             Console.WriteLine("Master");
